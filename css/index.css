@@ -196,6 +196,7 @@ body {
         margin-top: 0;
         margin-bottom: 0;
         padding: 0 0;
+        grid-template-columns: auto auto auto 300px;
         grid-template-areas:
             "a a b c"
             "d e e c";
